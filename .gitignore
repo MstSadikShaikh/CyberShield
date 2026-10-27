@@ -1,0 +1,34 @@
+# Java / Maven
+target/
+*.class
+.mvn/wrapper/maven-wrapper.jar
+
+# Frontend / Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vercel/
+.vercel/
+frontend/.env.local
+frontend/.env.*.local
+
+# IDEs & System
+.idea/
+*.iml
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+
+# Antigravity & Local Tools
+.gemini/
+.tools/
+*.zip
+
+# Environment & Secrets
+.env
+*.env
+.env.*
+
+# Database data
+data/
+mysql_data/
